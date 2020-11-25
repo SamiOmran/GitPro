@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\SmallProject\SmallProject\bin\Debug\netcoreapp3.1\SmallProject.exe
+C:\Users\hp\source\repos\SmallProject\SmallProject\bin\Debug\netcoreapp3.1\SmallProject.deps.json
+C:\Users\hp\source\repos\SmallProject\SmallProject\bin\Debug\netcoreapp3.1\SmallProject.runtimeconfig.json
+C:\Users\hp\source\repos\SmallProject\SmallProject\bin\Debug\netcoreapp3.1\SmallProject.runtimeconfig.dev.json
+C:\Users\hp\source\repos\SmallProject\SmallProject\bin\Debug\netcoreapp3.1\SmallProject.dll
+C:\Users\hp\source\repos\SmallProject\SmallProject\bin\Debug\netcoreapp3.1\SmallProject.pdb
+C:\Users\hp\source\repos\SmallProject\SmallProject\obj\Debug\netcoreapp3.1\SmallProject.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\SmallProject\SmallProject\obj\Debug\netcoreapp3.1\SmallProject.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\SmallProject\SmallProject\obj\Debug\netcoreapp3.1\SmallProject.AssemblyInfo.cs
+C:\Users\hp\source\repos\SmallProject\SmallProject\obj\Debug\netcoreapp3.1\SmallProject.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\SmallProject\SmallProject\obj\Debug\netcoreapp3.1\SmallProject.dll
+C:\Users\hp\source\repos\SmallProject\SmallProject\obj\Debug\netcoreapp3.1\SmallProject.pdb
+C:\Users\hp\source\repos\SmallProject\SmallProject\obj\Debug\netcoreapp3.1\SmallProject.genruntimeconfig.cache
